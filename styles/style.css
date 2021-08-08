@@ -103,7 +103,7 @@ body {
   border: none;
   outline: none;
   padding: 10px;
-  height: 1vh;
+  height: 35px;
   width: max(32.2vw, 240px);
   font-size: 1.6rem;
 }
