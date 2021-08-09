@@ -2,4 +2,4 @@
 
 Google homepage clone created with HTML and CSS.
 
-<a href="https://soul-remix.github.io/google-homepage/">Live Demo</a>
+<a href="https://amdzy.github.io/google-homepage/">Live Demo</a>
